@@ -4,7 +4,7 @@
 
 <div align="center">
 <h1>InfoHub</h1>
-<p style="font-size:15px;">InfoHub is your one-stop destination for the most recent headlines and breaking news from across the globe. No matter where you are, you can use our app to remain up to date on the most significant news stories and events as they develop.<br/> The website is live at https://info-hub.netlify.app </p>
+<p style="font-size:15px;">InfoHub is your one-stop destination for all the most recent headlines and breaking news from across the globe. No matter where you are, you can use our app to remain up to date on the most significant news stories and events as they develop.<br/> The website is live at https://info-hub.netlify.app </p>
 </div>
 
 # Contribution 🌟
